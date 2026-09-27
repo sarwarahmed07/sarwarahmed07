@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/profile-banner.png" alt="Sarwar Ahmed - Senior Full-Stack Developer" width="100%"/>
+
+</div>
+
 # Hi, I'm Sarwar Ahmed 👋
 
 ### Senior Full-Stack Developer · Software Architect · CEO @ Stackful
@@ -29,7 +35,7 @@ Currently working as a **Senior Full-Stack Developer at Pico Technology** and le
 
 Working on production-grade software applications with a focus on backend architecture, API development, database design, integrations, application performance and maintainable code.
 
-Key areas of responsibility include:
+**Key areas of responsibility:**
 
 - Designing and developing scalable backend systems
 - Building and maintaining RESTful APIs
@@ -49,7 +55,7 @@ Key areas of responsibility include:
 
 Leading Stackful, a software development company focused on building modern software solutions and SaaS applications.
 
-My responsibilities include:
+**Responsibilities include:**
 
 - Software architecture and technical direction
 - Product planning and development
@@ -60,7 +66,7 @@ My responsibilities include:
 - Client/project communication
 - Product strategy and engineering management
 
-🌐 https://stackful.dev
+🌐 **Website:** https://stackful.dev
 
 ---
 
@@ -99,6 +105,7 @@ My responsibilities include:
 - Indexing
 - Data Relationships
 - Redis
+- MongoDB
 
 ### DevOps & Infrastructure
 
@@ -240,9 +247,11 @@ I use GitHub for software development, version control, experimentation, collabo
 
 🌐 **Stackful:** https://stackful.dev
 
-💼 **LinkedIn:** [Your LinkedIn]
+💼 **LinkedIn:** https://www.linkedin.com/in/sarwarahmed07
 
-📧 **Email:** [Your Professional Email]
+📧 **Email:** Your Professional Email
+
+📱 **WhatsApp:** https://wa.me/8801883998671
 
 ---
 
