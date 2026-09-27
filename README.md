@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Sarwar Ahmed - Senior Full-Stack Developer" width="100%"/>
+<img src="./profile-banner.png" alt="Sarwar Ahmed - Senior Full-Stack Developer" width="100%"/>
 
 </div>
 
@@ -237,9 +237,16 @@ My current areas of interest include:
 
 I use GitHub for software development, version control, experimentation, collaboration and maintaining engineering projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarwarahmed07&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarahmed07&layout=compact&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sarwarahmed07&show_icons=true&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarahmed07&layout=compact&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
 
@@ -248,8 +255,6 @@ I use GitHub for software development, version control, experimentation, collabo
 🌐 **Stackful:** https://stackful.dev
 
 💼 **LinkedIn:** https://www.linkedin.com/in/sarwarahmed07
-
-📧 **Email:** Your Professional Email
 
 📱 **WhatsApp:** https://wa.me/8801883998671
 
